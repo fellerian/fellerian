@@ -48,3 +48,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src="https://latex.codecogs.com/svg.image?\bg_white&space;\sum_{i=1}^n&space;i^2&space;=&space;\frac{n(n&plus;1)(n&plus;2)}{6}" title="\bg_white \sum_{i=1}^n i^2 = \frac{n(n+1)(n+2)}{6}" />
+
+[Scratch]-160 2.jpg
