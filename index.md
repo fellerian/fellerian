@@ -47,3 +47,4 @@ fellerian/fellerian is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<img src="https://latex.codecogs.com/svg.image?\sum_{i=1}^n&space;i^2&space;=&space;\frac{n(n&plus;1)(n&plus;2)}{6}" title="\sum_{i=1}^n i^2 = \frac{n(n+1)(n+2)}{6}" />
